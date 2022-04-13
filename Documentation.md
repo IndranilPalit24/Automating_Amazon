@@ -8,7 +8,6 @@ You find a product and proceed to buy to checkout. This code is not getting to p
 Documentation:
 
 Logging in the Website:
- 
          This particular class defines that we have to sign into the amazon portal and then enter the Email address and
          after clicking on Continue button we have to we have to enter the password and have to click on Sign in. This Class
         should automatically lets you get inside the Amazon portal
